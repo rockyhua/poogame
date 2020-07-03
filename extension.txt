@@ -1,0 +1,5 @@
+1. UI
+2. scoreBoard
+3. continues shot
+4. two players : white ball revert will not reset the score,
+game could end and higher score win.
